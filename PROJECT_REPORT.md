@@ -1,7 +1,7 @@
 ---
 title: "NLP-Based Sentiment Analysis on Customer Reviews"
 subtitle: "VITyarthi - Build Your Own Project Evaluation Report"
-author: "Student Submission"
+author: "Kowshik Raj R"
 date: "September 2026"
 geometry: margin=1in
 fontsize: 11pt
@@ -11,7 +11,7 @@ fontsize: 11pt
 
 **Course Name:** Fundamentals of Artificial Intelligence and Machine Learning  
 **Project Title:** End-to-End NLP Sentiment Analysis System on Multi-Tier Customer Feedback  
-**Student Name / Roll Number:** Evaluated Project Submission  
+**Student Name / Roll Number:** Kowshik Raj R 25MIM10158 
 **Course Code / Evaluation:** VITyarthi - Build Your Own Project  
 **Submission Date:** September 18, 2026  
 **Repository URL:** https://github.com/profz/NLP-sentiment-analysis-  
