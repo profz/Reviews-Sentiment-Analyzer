@@ -2,7 +2,7 @@
 
 <html>
   <h2 align="center">
-    <img src="pngfind.com-mca-logo-png-6131138.png" width="250"/>
+    <img src="pngfind.com-mca-logo-png-6131138(1).png" width="250"/>
   </h2>
 </html>
 
