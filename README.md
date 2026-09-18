@@ -1,8 +1,10 @@
 # NLP Sentiment Analyzer
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests: Pytest](https://img.shields.io/badge/tests-pytest-green.svg)](https://docs.pytest.org/)
+<html>
+  <h2 align="center">
+    <img src="pngfind.com-mca-logo-png-6131138.png" width="250"/>
+  </h2>
+</html>
 
 An end-to-end, modular, and lightweight Natural Language Processing (NLP) tool trained on customer reviews. Classifies text into **Positive**, **Neutral**, or **Negative** sentiment categories alongside calibrated confidence percentages. Built to adhere strictly to production software engineering and academic project guidelines.
 
