@@ -277,5 +277,3 @@ Evaluated on a held-out test split (1,498 reviews) from the balanced corpus:
 In accordance with project guidelines:
 - [statement.md](statement.md): Formal problem statement, project scope, target users, and features.
 - [PROJECT_REPORT.md](PROJECT_REPORT.md): Complete 15-section project report including UML and architecture diagrams.
-- `PROJECT_REPORT.pdf`: Exported PDF report for submission portal upload.
-- `PROJECT_REPORT.docx`: Formatted Word document version.
